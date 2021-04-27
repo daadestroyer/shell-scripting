@@ -1,0 +1,6 @@
+1000	core java
+2000	advance java
+999	python 
+3500	linux
+10000	machine learning
+7000	internet of things

@@ -1,0 +1,11 @@
+#! /bin/bash
+IFS="-"
+echo "the number of arguments : $#"
+echo "script name : $0"
+echo "frist arguement : $1"
+echo "second argument : $2"
+echo "third argument : $3"
+echo "fourth argument : $4"
+echo "fifth arguement : $5"
+echo "all arguments with * : $*"
+echo "all arguments with @ : $@"

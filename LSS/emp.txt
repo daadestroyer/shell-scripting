@@ -1,0 +1,7 @@
+eno|ename|esal|eaddr|dept|gender
+--- ----- ---- ----- ---- ------
+100|sunny|1000|pune|admin|male
+200|bunny|2000|delhi|sales|female
+300|chinny|3000|pune|analyst|male
+400|munny|4000|delhi|admin|female
+500|dunny|5000|pune|sales|male        
